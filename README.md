@@ -110,6 +110,5 @@ resonate/
 ├── README.md             # You are here
 ├── LICENSE               # MIT
 ├── CONTRIBUTING.md       # How to contribute
-├── PUBLISHING.md         # Launch checklist and strategy
 ├── .gitignore            # Standard ignores
 └── engrams/              # Voice profil
