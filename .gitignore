@@ -1,0 +1,30 @@
+# Build output
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Voice engrams (user-specific data)
+resonate/engrams/
+
+# Logs
+*.log
+PUBLISHING.md
